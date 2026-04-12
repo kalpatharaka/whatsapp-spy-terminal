@@ -1,0 +1,5 @@
+node_modules
+session_data
+package-lock.json
+downloads
+logs.txt
