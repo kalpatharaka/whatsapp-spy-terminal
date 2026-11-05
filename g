@@ -1,0 +1,1 @@
+https://github.com/vanstadenhenko55-dot/whatsapp-spy-terminal/blob/main/.github%2Fworkflows%2Fgenerator-generic-ossf-slsa3-publish.yml
